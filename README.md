@@ -51,8 +51,7 @@ Feel free to use this README as a template for your GitHub repository and custom
 
 
 ## Acknowledgments
-
-This project is inspired by the groundbreaking work on PointNet by Qi et al. (2017). For more information, refer to the original [PointNet2 paper](https://stanford.edu/~rqi/pointnet2/).
+This project was inspired by the research papers  [Text-to-Text Transfer Transformer (T5)](https://arxiv.org/abs/1910.10683).
 
 
 ## Contact
