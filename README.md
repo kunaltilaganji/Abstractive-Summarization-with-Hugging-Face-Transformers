@@ -3,7 +3,7 @@
 
 # Introduction
 
-Automatic summarization is a central problem in Natural Language Processing (NLP). It involves challenges related to language understanding and generation. This tutorial focuses on abstractive summarization, aiming to generate concise, abstractive summaries of news articles.
+Automatic summarization is a central problem in Natural Language Processing (NLP). It involves challenges related to language understanding and generation. This project focuses on abstractive summarization, aiming to generate concise, abstractive summaries of news articles.
 
 We tackle this task using the [Text-to-Text Transfer Transformer (T5)](https://arxiv.org/abs/1910.10683), a Transformer-based model pretrained on various text-to-text tasks. T5's encoder-decoder architecture has shown impressive results in sequence-to-sequence tasks like summarization and translation.
 
